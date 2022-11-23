@@ -1,1 +1,5 @@
-print("some thing")
+print("some thing") 
+print("some thing") 
+print("some thing") 
+print("some thing") 
+print("some thing") 
